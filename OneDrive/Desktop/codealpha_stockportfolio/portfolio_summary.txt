@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+TSLA - 5 shares @ $250 = $1250
+AAPL - 4 shares @ $180 = $720
+MSFT - 6 shares @ $300 = $1800
+
+Total Investment Value: $3770
